@@ -14,7 +14,6 @@ This project demonstrates professional Python coding practices — configuration
 - Sends plain-text emails with TLS encryption
 - Provides clear logging and error handling
 - Follows clean code and PEP8 style conventions
-- Includes unit tests using `unittest.mock`
 
 ---
 
